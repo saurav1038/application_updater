@@ -14,9 +14,7 @@ It provides similar functionality to an app store, but instead of depending on a
 * **Languages**: English, Spanish, Chinese, Turkish, Arabic, French, Indonesian, Italian, Brazilian Portuguese.
 * App ignore list. Filter updates by architecture. Filter experimental apps. Filter apps by API level. Exclude apps installed by an App Store.
 
-# Download
-* [Stable release (2.0.5)](https://github.com/rumboalla/apkupdater/releases/download/2.0.5/app-release.apk)
-* [Older releases](https://github.com/rumboalla/apkupdater/releases)
+
 
 # Translations
 If you want to help with translations, use [![Translate](https://poeditor.com/public/images/logo_small.png)](https://poeditor.com/join/project/NWTNMrPFj8) or send a [Pull Request](https://github.com/rumboalla/apkupdater/pulls)
@@ -25,9 +23,7 @@ If you want to help with translations, use [![Translate](https://poeditor.com/pu
 ![1](https://github.com/rumboalla/apkupdater/raw/2.x/screenshots/screenshot_0001.png) ![2](https://github.com/rumboalla/apkupdater/raw/2.x/screenshots/screenshot_0002.png)
 ![3](https://github.com/rumboalla/apkupdater/raw/2.x/screenshots/screenshot_0003.png) ![4](https://github.com/rumboalla/apkupdater/raw/2.x/screenshots/screenshot_0004.png)
 
-# Other Projects
-* [CoolRs](https://github.com/rumboalla/coolrs): A collection of Android RenderScript effecs. 
-* [KryptoPrefs](https://github.com/rumboalla/KryptoPrefs): Kotlin library for handling encrypted SharedPreferences.
+
 
 # License
 Copyright &copy; 2019 Rumboalla.  
